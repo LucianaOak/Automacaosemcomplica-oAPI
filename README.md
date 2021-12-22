@@ -1,0 +1,3 @@
+# Automacaosemcomplica-oAPI
+# AutomacaosemcomplicaoAPI
+# AutomacaosemcomplicaoAPI
