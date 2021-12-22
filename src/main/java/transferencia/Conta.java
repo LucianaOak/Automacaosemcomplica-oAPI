@@ -4,13 +4,13 @@ public class Conta {
     String ag;
     String numeroConta;
     double saldo;
-    Cliente proprietário;
+    Cliente proprietario;
 
-    public Conta(String ag, String numeroConta, double saldo, Cliente proprietário) {
+    public Conta(String ag, String numeroConta, double saldo, Cliente proprietario) {
         this.ag = ag;
         this.numeroConta = numeroConta;
         this.saldo = saldo;
-        this.proprietário = proprietário;
+        this.proprietario = proprietario;
     }
 
     public String getAg() {
@@ -26,7 +26,7 @@ public class Conta {
     }
 
     public Cliente getProprietário() {
-        return proprietário;
+        return proprietario;
     }
 
     public void realizarDeposito(double valor){
